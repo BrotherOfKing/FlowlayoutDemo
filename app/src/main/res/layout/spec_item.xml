@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/spec_name"
+    android:layout_width="wrap_content"
+    android:layout_height="25dp"
+    android:layout_gravity="center"
+    android:layout_margin="5dp"
+    android:background="@drawable/spec_select_bg"
+    android:gravity="center"
+    android:paddingEnd="10dp"
+    android:paddingStart="10dp"
+    android:textColor="@color/goods_spec_color"
+    android:textSize="13dp" />
